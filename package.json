@@ -4,6 +4,7 @@
   "description": "Prueba apirest PPS",
   "main": "server.js",
   "scripts": {
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specificated\" && exit"
   },
   "author": "David",
