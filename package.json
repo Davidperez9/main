@@ -1,0 +1,19 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "Prueba apirest PPS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specificated\" && exit"
+  },
+  "author": "David",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "md5": "^2.3.0",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
